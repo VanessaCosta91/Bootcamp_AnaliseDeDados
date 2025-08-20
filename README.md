@@ -1,62 +1,28 @@
-\# Bootcamp Analise de Dados
-
-
-
-
+# Bootcamp Analise de Dados
 
 Este repositório reúne todos os desafios e projetos práticos desenvolvidos ao longo do Bootcamp Analise de Dados que estou participando. Cada pasta contém um projeto individual, com seu próprio código, explicações e arquivos relacionados.
 
 
+## Estrutura do Repositório
+
+- `Projeto_conceitual_BD`
+- `conceitual_oficina`
+- `...`: Novos projetos serão adicionados aqui conforme forem sendo realizados.
 
 
-
-\## Estrutura do Repositório
-
-
-
-
-
-\- `Projeto\_conceitual\_BD`
-
-\- `conceitual\_oficina`
-
-\- `...`: Novos projetos serão adicionados aqui conforme forem sendo realizados.
-
-
-
-
-
-\## Objetivo
-
-
-
-
+## Objetivo
 
 Documentar minha jornada de aprendizado deste Bootacamp por meio de projetos práticos.
 
 
+## Tecnologias utilizadas
 
-
-
-\## Tecnologias utilizadas
-
-
-
-
-
-\- MySQL Workbench
-
-\- (Outras tecnologias podem ser acrescentadas)
-
-
-
+- MySQL Workbench
+- (Outras tecnologias podem ser acrescentadas)
 
 
 ---
 
 
-
-
-
-\*Este repositório está em constante atualização.\*
+*Este repositório está em constante atualização.*
 

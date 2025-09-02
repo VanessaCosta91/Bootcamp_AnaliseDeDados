@@ -8,6 +8,7 @@ Este repositório reúne todos os desafios e projetos práticos desenvolvidos ao
 - [Speech & NLP Lab com IA Open Source](Speech_language_nlp_lab)
 - [Modelo Conceitual de E-commerce](Projeto_conceitual_BD)
 - [Modelo Conceitual - Oficina Mecânica](conceitual_oficina)
+- [Banco de dados E-commerce](BancodeDados_Ecommerce)
 - *Novos projetos serão adicionados aqui conforme forem sendo realizados*	
 
 

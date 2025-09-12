@@ -10,6 +10,8 @@ Este repositório reúne todos os desafios e projetos práticos desenvolvidos ao
 - [Modelo Conceitual - Oficina Mecânica](conceitual_oficina)
 - [Banco de dados E-commerce](BancodeDados_Ecommerce)
 - [Banco de dados Oficina](BancodeDados_Oficina)
+- [Dashboard em Planilha](dashboard_vendas)
+- [Dashboard em Power BI](Dashboard_analise_de_vendas)
 - *Novos projetos serão adicionados aqui conforme forem sendo realizados*	
 
 
@@ -24,6 +26,8 @@ Documentar minha jornada de aprendizado deste Bootacamp por meio de projetos pr�
 - TextBlob
 - Google Colab 
 - MySQL Workbench
+- Google Planilhas
+- PowerBI
 - (Outras tecnologias podem ser acrescentadas)
 
 

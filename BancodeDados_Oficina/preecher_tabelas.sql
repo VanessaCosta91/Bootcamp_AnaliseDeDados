@@ -43,7 +43,7 @@ INSERT INTO servicos (serviceName, price) VALUES
 ('Rodízio de pneus',         80.00);
 
 -- PREENCHER TABELA DE PEÇAS
-INSERT INTO pecas (partName, price) VALUES
+INSERT INTO pecas (PartceName, Price) VALUES
 ('Óleo 5W30',                60.00),
 ('Filtro de óleo',           40.00),
 ('Pastilha de freio',       250.00),
@@ -72,7 +72,7 @@ INSERT INTO valoresServicos (idOrder, idService) VALUES
 (8, 3);                 
 
 -- ITENS DE PEÇAS POR ORDEM
-INSERT INTO valoresPecas (idOrder, idPart) VALUES
+INSERT INTO valoresPecas (idOrder, idParts) VALUES
 (1, 1), (1, 2),         
 (3, 3),                 
 (5, 5),                 
